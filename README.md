@@ -9,8 +9,11 @@ I have copious **experience** & **expertise** in **React, Typescript, NextJS, Fl
 Currently studying to become a **better Full-Stack developer,** including enhancing my knowledge of **system design, NodeJS/Bun/Hono/Deno & SQL/GraphQL**. Also, currently studying some **Machine Learning** &  **Dev Ops/Cloud** for fun. 📚
 
 **Things I Like:** Good UI, UX Talks, Learning | 
+
 **Things I love:** Coffee, AI, Business, Marketing | 
+
 **Hobbies:** Musician, Basketball, Pickleball, Anime |
+
 
 ---
 
