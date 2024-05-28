@@ -17,10 +17,15 @@ Currently studying to become a **better Full-Stack developer,** including enhanc
 You can find my **portfolio** or **connect with me** per the links below: 
 
 💻 - **Portfolio** - https://orlandomasso.dev
+
 📃 - **Resume** - https://orlandomasso.dev/resume
+
 👾 - **GitHub** - https://github.com/omboriqua
+
 ▶️ - **YouTube** - https://youtube.com/omboriqua
+
 ⚡️ - **Instagram** - https://instagram.com/omboriqua
+
 📧 - **Email** - orlandomassodev@gmail.com
 
 ---
