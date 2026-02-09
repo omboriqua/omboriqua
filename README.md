@@ -12,7 +12,7 @@ Currently studying to become a **better Full-Stack developer,** including enhanc
 
 **Things I love:** Coffee, AI, Business, Marketing | 
 
-**Hobbies:** Musician, Basketball, Pickleball, Anime |
+**Hobbies:** Musician, Basketball, Golf, Anime |
 
 
 ---
