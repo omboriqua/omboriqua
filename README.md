@@ -4,7 +4,7 @@ I'm Orlando.
 
 I'm a **software developer** based in the **South Florida** area. 🌴
 
-I have copious **experience** & **expertise** in **React, Typescript, NextJS, Flutter/Dart, Front-End** & **Some Back-End** technologies. ⌨️
+I have **experience** & **expertise** in **React, Typescript, NextJS, Flutter/Dart, Front-End** & **Some Back-End** technologies. ⌨️
 
 Currently studying to become a **better Full-Stack developer,** including enhancing my knowledge of **system design, NodeJS/Bun/Hono/Deno & SQL/GraphQL**. Also, currently studying some **Machine Learning** &  **Dev Ops/Cloud** for fun. 📚
 
